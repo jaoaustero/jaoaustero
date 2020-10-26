@@ -1,5 +1,5 @@
 👋🏻 Jao Austero—@jaoaustero
-Hi I'm Jao a Creator of Istilo Css Framework and I work Full-time as Lead Front-end Developer at [GigaMare](https://www.gigamare.com). I'm open at Open source projects, and planning to create Vue-generate a CLI utility
+Hi I'm Jao a Creator of Istilo Css Framework and I work Full-time as Senior Front-end Developer at [Tawk.to](https://www.tawk.to). I'm open at Open source projects, and planning to create Vue-generate a CLI utility
 tool for Vue Js.
 
 👨🏻‍💻 How I work
