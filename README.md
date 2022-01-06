@@ -1,11 +1,26 @@
-👋🏻 Jao Austero—@jaoaustero
-Hi I'm Jao a Creator of Istilo Css Framework and I work Full-time as Senior Front-end Developer at [Tawk.to](https://www.tawk.to). I'm open at Open source projects, and planning to create Vue-generate a CLI utility
-tool for Vue Js.
+## Hi there 👋🏻
 
-👨🏻‍💻 How I work
-My passion is Design and Coding so I work as Unicorn Developer anywhere. That push me to create a framework
-of my own as my primary tool on developing a products.
+- 💼 Senior Front-end Developer at [Tawk.to](https://www.tawk.to)
+- 🤝🏻 Contributing plugins and boilerplate to [Solid JS](https://www.solidjs.com/)
+- ✍🏻 Writing Open Source Software at night
+- ☕ Specialty Coffee Enthusiast
+- 🤙🏻 Follow me on [Instagram](https://instagram.com/jaoaustero), [Twitter](https://twitter.com/jaoaustero)
+- ✉️ How to reach me: `jerald.austero0229@gmail.com`
 
-📞 Get in touch
-- Twitter: https://twitter.com/jaoaustero
-- Instagram: https://instagram.com/jaoaustero
+<br/>
+
+## My Packages 📦
+I do write Open source softwares mostly at night when I have vacant time, I love to contribute and maintain open-source projects.
+
+| Package                                                                                  | Downloads                                                                     | Description                                     |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- | ----------------------------------------------- |
+| [`solid-tawk-messenger`](https://github.com/jaoaustero/solid-tawk-messenger)             | ![](https://img.shields.io/npm/dm/solid-tawk-messenger.svg?style=flat-square) | Solid JS plugin for Tawk messenger              |
+| [`solid-scalable-boilerplate`](https://github.com/jaoaustero/solid-scalable-boilerplate) |                                                                               | A highly scalbale, evolving, and best practices |
+| [`tawk-messenger-vue`](https://github.com/tawk/tawk-messenger-vue)                       |                                                                               | Official Vue Js plugin for Tawk messenger       |
+| [`tawk-messenger-react`](https://github.com/tawk/tawk-messenger-react)                   |                                                                               | Official React Js plugin for Tawk messenger     |
+
+---
+
+<br/>
+
+![jaoaustero's Github Stats](https://github-readme-stats.vercel.app/api?username=jaoaustero&count_private=true&text_color=fff&bg_color=360,0061ff,60efff&title_color=fff&show_icons=true&icon_color=fff)
