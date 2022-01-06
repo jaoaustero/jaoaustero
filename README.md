@@ -19,9 +19,6 @@ I do write Open source softwares mostly at night when I have vacant time, I love
 | [`tawk-messenger-vue`](https://github.com/tawk/tawk-messenger-vue)                       |                                                                               | Official Vue Js plugin for Tawk messenger       |
 | [`tawk-messenger-react`](https://github.com/tawk/tawk-messenger-react)                   |                                                                               | Official React Js plugin for Tawk messenger     |
 
-<br/>
-
----
 
 <br/>
 
