@@ -12,12 +12,13 @@
 ## My Packages 📦
 I do write Open source softwares mostly at night when I have vacant time, I love to contribute and maintain open-source projects.
 
-| Package                                                                                  | Downloads                                                                           | Description                                     |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- | ----------------------------------------------- |
-| [`solid-tawk-messenger`](https://github.com/jaoaustero/solid-tawk-messenger)             | ![](https://img.shields.io/npm/dm/solid-tawk-messenger.svg?style=flat-square)       | Solid JS plugin for Tawk messenger              |
-| [`solid-scalable-boilerplate`](https://github.com/jaoaustero/solid-scalable-boilerplate) |                                                                                     | A highly scalbale, evolving, and best practices |
-| [`tawk-messenger-vue`](https://github.com/tawk/tawk-messenger-vue)                       | ![](https://img.shields.io/npm/dm/@tawk.to/tawk-messenger-vue.svg?style=flat-square)| Official Vue Js plugin for Tawk messenger       |
-| [`tawk-messenger-react`](https://github.com/tawk/tawk-messenger-react)                   |                                                                                     | Official React Js plugin for Tawk messenger     |
+| Package                                                                                  | Downloads                                                                            | Description                                     |
+| ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ----------------------------------------------- |
+| [`solid-tawk-messenger`](https://github.com/jaoaustero/solid-tawk-messenger)             | ![](https://img.shields.io/npm/dm/solid-tawk-messenger.svg?style=flat-square)        | Solid JS plugin for Tawk messenger              |
+| [`solid-scalable-boilerplate`](https://github.com/jaoaustero/solid-scalable-boilerplate) |                                                                                      | A highly scalbale, evolving, and best practices |
+| [`tawk-messenger-vue`](https://github.com/tawk/tawk-messenger-vue)                       | ![](https://img.shields.io/npm/dm/@tawk.to/tawk-messenger-vue.svg?style=flat-square) | Official Vue Js plugin for Tawk messenger       |
+| [`tawk-messenger-react`](https://github.com/tawk/tawk-messenger-react)                   |                                                                                      | Official React Js plugin for Tawk messenger     |
+| [`tawk-messenger-ember`](https://github.com/tawk/tawk-messenger-ember)                   |                                                                                      | Official Ember Js plugin for Tawk messenger     |
 
 
 <br/>
