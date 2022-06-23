@@ -20,7 +20,7 @@ I do write Open source softwares mostly at night when I have vacant time, I love
 | [`tawk-messenger-vue-2`](https://github.com/tawk/tawk-messenger-vue-2)                   | ![](https://img.shields.io/npm/dm/@tawk.to/tawk-messenger-vue-2?color=%23267DCF&style=flat-square) | Official Vue Js 2 plugin for Tawk messenger          |
 | [`tawk-messenger-vue-3`](https://github.com/tawk/tawk-messenger-vue-3)                   | ![](https://img.shields.io/npm/dm/@tawk.to/tawk-messenger-vue-3?color=%23267DCF&style=flat-square) | Official Vue Js 3 plugin for Tawk messenger          |
 | [`tawk-messenger-react`](https://github.com/tawk/tawk-messenger-react)                   | ![](https://img.shields.io/npm/dm/@tawk.to/tawk-messenger-react?color=%23267DCF&style=flat-square) | Official React Js plugin for Tawk messenger          |
-| [`tawk-messenger-ember`](https://github.com/tawk/tawk-messenger-ember)                   | `Coming soon`                                                                                      | Official Ember Js plugin for Tawk messenger          |
+| [`tawk-messenger-ember`](https://github.com/tawk/tawk-messenger-ember)                   | ![](https://img.shields.io/npm/dm/@tawk.to/tawk-messenger-ember?color=%23267DCF&style=flat-square) | Official Ember Js plugin for Tawk messenger          |
 
 
 <br/>
