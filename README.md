@@ -1,17 +1,5 @@
-## Hi there 👋🏻
-I work as a full time Senior Front-end & writting open source applications at night.
-I'm specialty coffee enthusiast & coffee roaster as a hobby.
-
-- 💼 Senior Front-end Developer at [Tawk.to](https://www.tawk.to)
-- 👨🏻‍💻 Writting open source UI components at [Istilo](https://github.com/istilo)
-- 🤝🏻 Contributing plugins and boilerplate to [Solid JS](https://www.solidjs.com/)
-- 🤙🏻 Follow me on [Instagram](https://instagram.com/jaoaustero), [Twitter](https://twitter.com/jaoaustero)
-- ✉️ How to reach me: `work@jeraldaustero.com`
-
-<br/>
-
 ## My Packages 📦
-I do write Open source softwares mostly at night when I have vacant time, I love to contribute and maintain open-source projects.
+I do write Open source softwares when I have free time, I love to contribute and maintain open-source projects.
 
 | Package                                                                                  | Downloads                                                                                          | Description                                          |
 | ---------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------- | ---------------------------------------------------- |
